@@ -100,7 +100,7 @@ skinparam useBetaStyle false
     Shadowing 0.0
   }
   node {
-   Padding 15
+   Padding 5
    BackgroundColor $PRIMARY-$PRIMARY_DARK
   }
   caption {
