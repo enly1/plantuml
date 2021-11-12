@@ -141,9 +141,6 @@ skinparam useBetaStyle false
         LineColor grey
         BackGroundColor grey
     }
-  arrow {
-        LineColor grey 
-    }
 
   nwdiagDiagram {
 	network {
@@ -281,8 +278,8 @@ skinparam actor {
 !startsub arrow
 
 skinparam arrow {
-	Thickness 3
-	Color $PRIMARY
+	Thickness 1
+	Color grey
 	FontColor $FGCOLOR
 }
 !endsub
