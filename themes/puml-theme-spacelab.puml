@@ -101,8 +101,9 @@ skinparam useBetaStyle false
   }
   node {
    Padding 15
-   roundCorner 40
+   roundCorner 80
    BackgroundColor $PRIMARY-$PRIMARY_DARK
+   BackgroundColor RED
   }
   caption {
     LineThickness 0
@@ -419,10 +420,8 @@ skinparam storage {
 
 skinparam node {
 	BackgroundColor  $SECONDARY
-	BackgroundColor  RED
 	BorderColor $LIGHT
 	FontColor $LIGHT
-	roundCorner 40
 }
 !endsub
 
