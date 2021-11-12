@@ -136,6 +136,20 @@ skinparam useBetaStyle false
 	FontColor $PRIMARY
 	BorderColor $SECONDARY
   }
+
+  mindmapDiagram { 
+    node {
+        RoundCorner 20
+    }
+    rootNode {
+        LineColor grey
+        BackGroundColor grey
+    }
+    arrow {
+        LineColor grey 
+    }
+  } 
+
   nwdiagDiagram {
 	network {
 		$primary_scheme()    
