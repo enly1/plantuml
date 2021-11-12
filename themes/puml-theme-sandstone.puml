@@ -99,11 +99,21 @@ skinparam useBetaStyle false
     Padding 6
     Shadowing 0.0
   }
+	
   node {
    Padding 15
    roundcorner 20
    BackgroundColor $PRIMARY-$PRIMARY_DARK
   }
+
+      rootNode {
+        LineColor grey
+        BackGroundColor grey
+    }
+    arrow {
+        LineColor grey 
+    }
+
   caption {
     LineThickness 0
   }
