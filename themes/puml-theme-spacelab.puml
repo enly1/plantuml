@@ -139,7 +139,7 @@ skinparam useBetaStyle false
 
   mindmapDiagram { 
     node {
-        RoundCorner 20
+        RoundCorner 30
     }
     rootNode {
         LineColor grey
