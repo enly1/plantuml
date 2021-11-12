@@ -419,6 +419,7 @@ skinparam storage {
 
 skinparam node {
 	BackgroundColor  $SECONDARY
+	BackgroundColor  RED
 	BorderColor $LIGHT
 	FontColor $LIGHT
 	roundCorner 40
