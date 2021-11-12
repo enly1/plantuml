@@ -101,9 +101,7 @@ skinparam useBetaStyle false
   }
   node {
    Padding 15
-   roundCorner 80
    BackgroundColor $PRIMARY-$PRIMARY_DARK
-   BackgroundColor RED
   }
   caption {
     LineThickness 0
@@ -142,6 +140,10 @@ skinparam useBetaStyle false
         LineColor grey
         BackGroundColor grey
     }
+
+  node {
+	  LineColor red
+  }
 
   nwdiagDiagram {
 	network {
@@ -206,7 +208,7 @@ skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false
-skinparam roundcorner           8
+skinparam roundcorner           40
 skinparam ParticipantPadding    40
 skinparam BoxPadding            40
 skinparam Padding               5
