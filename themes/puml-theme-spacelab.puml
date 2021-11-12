@@ -101,7 +101,7 @@ skinparam useBetaStyle false
   }
   node {
    Padding 15
-   roundcorner 20
+   roundCorner 40
    BackgroundColor $PRIMARY-$PRIMARY_DARK
   }
   caption {
