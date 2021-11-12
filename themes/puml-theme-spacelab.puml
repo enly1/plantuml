@@ -137,18 +137,13 @@ skinparam useBetaStyle false
 	BorderColor $SECONDARY
   }
 
-  mindmapDiagram { 
-    node {
-        RoundCorner 30
-    }
-    rootNode {
+  rootNode {
         LineColor grey
         BackGroundColor grey
     }
-    arrow {
+  arrow {
         LineColor grey 
     }
-  } 
 
   nwdiagDiagram {
 	network {
