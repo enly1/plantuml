@@ -421,6 +421,7 @@ skinparam node {
 	BackgroundColor  $SECONDARY
 	BorderColor $LIGHT
 	FontColor $LIGHT
+	roundCorner 40
 }
 !endsub
 
